@@ -1,0 +1,15 @@
+type: edu
+custom_name: The magic begins!
+files:
+  - name: src/index.html
+    visible: true
+    learner_created: false
+  - name: src/css/style.css
+    visible: true
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/18641#comment
+status: Solved
+record: 1
