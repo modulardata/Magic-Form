@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+}
+
+nav {
+    background: teal;
+    padding: 1rem 0;
+}
+
+#form-link {
+    margin-right: 1rem;
+}
+
+#form-link,
+#history-link {
+    color: white;
+    display: inline-block;
+    left: 50%;
+    position: relative;
+    text-decoration: none;
+    transform: translate(-15rem);
+}
+
+form {
+    margin: 1rem auto 0 auto;
+    max-width: 30rem;
+    padding: 0 1rem;
+}
+
+label {
+    font-weight: bold;
+}
+
+input {
+    box-sizing: border-box;
+    display: block;
+    margin-bottom: .5rem;
+    width: 100%;
+}
+
+#submit-button {
+    background: teal;
+    border: none;
+    color: white;
+    left: 50%;
+    padding: .2rem 1rem;
+    position: relative;
+    transform: translate(-50%);
+}
